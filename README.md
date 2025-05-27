@@ -20,8 +20,7 @@ A Flutter mobile app for controlling an Arduino-based robotic car via Bluetooth 
 
 ## 📱 App Screenshots
 
-![App Interface](Sc
-*Add screenshots of your app here*
+![App Interface](Screenshot_20250527_220558.jpg)
 
 ## 🔧 Installation
 
